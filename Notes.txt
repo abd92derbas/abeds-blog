@@ -1,0 +1,18 @@
+this next.js application uses 
+graphQL to remplace the REST Api logic using my main account (abd92derbas@gmail.com)
+tailwind css and SASS for the styling of the application
+
+note that posting a note will not be display directly you should publish the comment from graphCMS
+
+to run this next.js application use:
+npm run dev
+
+ - 'enable embeds' was moved to the Advanced Tab 
+ where you have to select the models that can be 
+ embedded.
+
+- The 'Create & Add New Image' option do not appear 
+under Content > Model > Create.  To add a new image 
+simply go to the side panel and below 'Content' is 
+an 'Assets' tab. There you can create your assets and 
+use them by by selecting the option to 'add existing image'.
